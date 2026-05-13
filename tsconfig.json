@@ -6,10 +6,9 @@
     "strict": true,
     "skipLibCheck": true,
     "lib": [
-      "ES2020",
-      "DOM"
+      "ES2020"
     ],
-    "types": ["node", "vite/client"],
+    "types": ["vite/client"],
     "jsx": "react-jsx",
     "jsxImportSource": "hono/jsx",
     "esModuleInterop": true,
